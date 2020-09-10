@@ -1,0 +1,28 @@
+#ip2 {
+    border-radius: 20px;
+    border: 1px solid black;
+    padding: 20px; 
+    width: 500px;
+    height: 15px;    
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:20%;
+}
+#ip3{
+    padding: 12px; 
+    width: 500px;
+    height: 15px;    
+}    
+#close{
+    float:right;
+    display:block;
+    margin-right:0px;
+    clear:left;
+    padding: 0px 10px;
+    word-wrap: normal;
+    display: inline-block;
+}    
+    
